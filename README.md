@@ -16,15 +16,15 @@ OPENAI_API_KEY = <YOUR API KEY>
 ```
 ### step2 : Install all nessery libraries
 ```
-pip install -r reqirements.txt
+pip install -r requirements.txt
 ```
 
 ### step3: Run the following cmd to create a pkl file
 ```
-streamlit run traning.py
+streamlit run training.py
 ```
 ### step4: Now run the project
 
 ```
-streamlit run main.py
+streamlit run app.py
 ```
