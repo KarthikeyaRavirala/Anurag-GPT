@@ -1,12 +1,12 @@
 # Anurag-GPT
 
-https://github.com/pradeepodela/Anurag-GPT/assets/72432569/6ac35c80-60f7-47ea-851d-6d46e0762936
+https://github.com/KarthikeyaRavirala/Anurag-GPT
 
 ## Run this project
 
 ### Clone the project
 ```
-git clone https://github.com/pradeepodela/Anurag-GPT
+git clone https://github.com/KarthikeyaRavirala/Anurag-GPT
 ```
 ### Data preparation 
 #### create a folder called traning and upload all the pdf files into it 
